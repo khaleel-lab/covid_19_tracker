@@ -1,0 +1,17 @@
+.footer {
+	text-align: center;
+	padding-top: 5px;
+	bottom: 0;
+	border-top: 1px solid lightgray;
+	background-color: #f7f7f7;
+}
+
+.footer > p {
+	padding: 2px;
+	font-size: 10px;
+}
+
+.footer__name {
+	font-weight: bold;
+	color: #ff5a5f;
+}
